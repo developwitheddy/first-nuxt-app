@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/14cc7c62-8327-4295-a440-967fca7d1a08/deploy-status)](https://app.netlify.com/sites/ez-first-nuxt/deploys)
+
 # first-nuxt-app
 
 ## Build Setup
@@ -40,7 +42,6 @@ More information about the usage of this directory in [the documentation](https:
 Layouts are a great help when you want to change the look and feel of your Nuxt app, whether you want to include a sidebar or have distinct layouts for mobile and desktop.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/layouts).
-
 
 ### `pages`
 
